@@ -101,6 +101,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                           </div>
                         </form>
 
+                         <form action="clg_free.php" method="post"  autocomplete="off">
+                          <div class="form_details">
+                            <div class="sub-button">
+                              <input type="submit" name="11" value="clg not assigned">
+                            </div>
+                          </div>
+                        </form>
+
               <form action="automations.php" method="post"  autocomplete="off">
                           <div class="form_details">
                             <div class="sub-button">

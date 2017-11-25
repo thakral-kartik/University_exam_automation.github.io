@@ -3,7 +3,7 @@ session_start();
 require 'dbconnect.php';
 if ( $_SESSION['login'] != 1 ) {
   $_SESSION['message'] = "You must log in before viewing your profile page!";
- // header("location: error.php");    
+  header("location: error.php");    
 }//to make sure that user may not open the profile page with link
 else {
     $name = $_SESSION['name'];

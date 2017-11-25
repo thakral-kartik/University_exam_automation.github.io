@@ -160,7 +160,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <form action="confirm_hod.php" method="post" autocomplete="off">
                           <div class="form_details">
                             <div class="sub-button">
-                              <input type="submit" name="l1" value="Conform HOD">
+                              <input type="submit" name="l1" value="Confirm HOD">
                             </div>
                           </div>
                         </form>
